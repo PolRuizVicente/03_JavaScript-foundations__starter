@@ -8,6 +8,7 @@
 
    Log out each variable to the terminal at the end.
 */
+
 const myString = "Hello, World!";
 const myNumber = 42;
 const myBoolean = true;

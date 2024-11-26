@@ -1,3 +1,4 @@
+
 /* 
     1. Create a variable called 'name' that points at a string containing your name
     2. Define function 'updateValue', which receives a value and updates variable 'name'
@@ -9,6 +10,8 @@
       Log 'name' value.
 
 */
+=======
+
 let myName = "John Doe";
 
 function updateValue(value) {

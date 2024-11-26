@@ -42,7 +42,11 @@ We have 3 forms to declar locals variables:
 ### Which are the most used var naming conventions in JS?
 
 ```
+
 The most used is camalCas
+=======
+The most used is camalCase 
+
 ```
 
 ## About operators
