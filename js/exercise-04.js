@@ -7,7 +7,8 @@
     4. false || console.log("bye friend");
 
     Once you see the results, write in a comment why it works that way
-*/
+
+=======
 
 true && console.log("moo"); 
 
